@@ -13,5 +13,5 @@ shiny, shinyWidgets, leaflet, highcharter
 
 #### Thumbnail Overview of the visualization
 
-![Thumbnail Preview](https://github.com/jagadishr12/olympics-data-visualization/blob/master/Thumbnail%20Overview.png)
+![Thumbnail Preview](https://github.com/jagadishr12/olympics-data-visualization/blob/master/output%20screenshots/Thumbnail%20Overview.png)
 
