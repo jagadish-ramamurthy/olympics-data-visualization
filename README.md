@@ -8,7 +8,7 @@ The dataset for the visualization was taken from Kaggle [1] database of datasets
 
 Apart from the above-mentioned dataset, an additional dataset had to be downloaded to represent the countries on hovering over them. These datasets were downloaded from Natural Earth [2], a public domain to construct custom maps.
 
-##### A thumnail preview of the visualization
+#### Thumbnail Overview of the visualization
 
 ![Thumbnail Preview](https://github.com/jagadishr12/olympics-data-visualization/blob/master/Thumbnail%20Overview.png)
 
