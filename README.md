@@ -8,5 +8,5 @@ The 120 years of Olympic Games history (from the start to the recent 2016 Games)
 Apart from the above-mentioned dataset, an additional dataset had to be downloaded to represent the countries on hovering over them. These datasets were downloaded from Natural Earth [2], a public domain to construct custom maps.
 
 ### References
-[1] [120 Years of Olympic History] (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
-[2] [Natural Earth dataset] (https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+[1] [120 Years of Olympic History](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+[2] [Natural Earth dataset](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
