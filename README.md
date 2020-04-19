@@ -5,6 +5,7 @@ The 120 years of Olympic Games history (from the start to the recent 2016 Games)
 
 ### Datasets
 The dataset for the visualization was taken from Kaggle [1] database of datasets. The dataset contains approximately three hundred thousand rows with a total of 15 columns. Each row represents an athlete competing in an Olympic event. The important columns in the dataset include Name, Sex, NOC (National Olympic Committee Code), Year, Season, City, Sport, Medal.
+
 Apart from the above-mentioned dataset, an additional dataset had to be downloaded to represent the countries on hovering over them. These datasets were downloaded from Natural Earth [2], a public domain to construct custom maps.
 
 ### References
