@@ -1,7 +1,3 @@
-setwd(
-  "D:/OneDrive/OneDrive - TCDUD.onmicrosoft.com/Semester 2/Data Visualization/Assigments/Assignment 3"
-)
-
 packages_list <- c("dplyr", "shiny", "shinyWidgets", "shinydashboard", "sf", "leaflet", "highcharter")
 new_packages <-  packages_list[!(packages_list %in% installed.packages()[, "Package"])]
 if(length(new_packages)) install.packages(new_packages)
